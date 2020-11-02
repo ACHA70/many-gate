@@ -1,0 +1,9 @@
+body{
+    border: 0;
+    margin: 0;
+}
+section{
+    position center;
+    max-width: 25;
+    border-style: double;
+    height: ;200px
